@@ -21,7 +21,7 @@ class ContactListItem extends StatelessWidget {
         ),
         child: ListTile(
           contentPadding: EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
-          // Leading icon (Person avatar)
+          
           leading: Icon(
             Icons.person,
             color: Colors.brown,
